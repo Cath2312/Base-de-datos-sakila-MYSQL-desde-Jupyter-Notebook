@@ -9,7 +9,7 @@ Por temas de tiempo, usé la base de datos sakila de MYSQL. La base de datos de 
 3. Ahí mismo en MYSQL abrir el archivo "sakila-data.sql" (el cual llenara las tablas) y ejecutarlo.
    
 4. En MYSQL nos dirijimos a la sección de información de session, donde vamos a obtener:
-   informacion.jpg
+   [informacion.jpg](https://raw.githubusercontent.com/Cath2312/proyecto/main/proyecto/informacion.jpg)
    
 5. Descargar python y correr lo siguiente (tomando en cuenta la información que obtuvimos en MYSQL):
     import mysql.connector
