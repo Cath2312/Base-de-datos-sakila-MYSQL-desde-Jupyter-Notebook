@@ -12,6 +12,7 @@ Por temas de tiempo, usé la base de datos sakila de MYSQL. La base de datos de 
    ![](informacion.jpg)
    
 5. Descargar python y correr lo siguiente (tomando en cuenta la información que obtuvimos en MYSQL):
+  
     import mysql.connector
    
     configuracion_db = {'user': 'root','password': '101118','host': '127.0.0.1','database': 'sakila'}
@@ -29,9 +30,9 @@ Por temas de tiempo, usé la base de datos sakila de MYSQL. La base de datos de 
  6. Ahora en cmd de windows escribimos "Jupyter Notebook" y nos llevara a una ventana de google.
 
  7. En la ventana nos vamos a "New" -> Python3.
-
+  ![](jupyer.jpg)
  8. Una vez ahí volvemos a correr el punto 5 en una celda.
-
+  ![](conexionexitosa.jpg)
  9. Desde ahi podemos trabajar con nuestra base de datos desde python usando nuestra base de datos, como por ejemplo si 
     corremos:
 
@@ -45,7 +46,8 @@ Por temas de tiempo, usé la base de datos sakila de MYSQL. La base de datos de 
 
       print(fila)
 
-    vamos a obtener:
+    vamos a obtener la lista completa llamada "actor":
+      ![](correr.jpg)
     
  11. Y asi podemos seguir trabajando en la base de datos desde jupyter:
 
