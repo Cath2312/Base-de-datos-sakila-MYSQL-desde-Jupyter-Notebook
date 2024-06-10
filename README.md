@@ -1,6 +1,8 @@
 # Proyecto
 
-Por temas de tiempo, usé la base de datos sakila de MYSQL. La base de datos de ejemplo de Sakila está diseñada para representar una tienda de alquiler de DVD. La base de datos de muestra de Sakila todavía toma prestados nombres de películas y actores de la base de datos de muestra de Dell.
+Por temas de tiempo, usé la base de datos sakila de MYSQL. La base de datos de ejemplo de Sakila está diseñada para representar una tienda de alquiler de peliculas. La base de datos de muestra de Sakila todavía toma prestados nombres de películas y actores de la base de datos de muestra de Dell (de MYSQL). 
+
+La base de datos Sakila tiene una estructura muy compleja con más de 1000 registros y múltiples relaciones entre tablar, lo caul hacer que sea interesante para probar consultas SQL.
 
 1. Descargar la base de datos desde: https://downloads.mysql.com/docs/sakila-db.zip. Donde se obtiene una carpeta comprimida con dos archivos llamados "sakila-data.sql" y "sakila.schema.sql".
    
